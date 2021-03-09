@@ -9,8 +9,8 @@ API criada com Flask
 2. Crie um virtualenv com Python 3.9
 3. Ative o virutalenv.
 4. Instale as dependências.
-5. Configure a instância com o .env
-6. Execute os testes
+5. Configure o parametros config.py
+6. Execute os comandos para migração do banco de dados
 
 ````console
 git clone git@github.com:sidneyasjr/
